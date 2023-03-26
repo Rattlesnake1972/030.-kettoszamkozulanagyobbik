@@ -23,6 +23,5 @@ namespace _030.kettoszamkozulanagyobbik
 
             Console.ReadKey();
         }
-
     }
 }
