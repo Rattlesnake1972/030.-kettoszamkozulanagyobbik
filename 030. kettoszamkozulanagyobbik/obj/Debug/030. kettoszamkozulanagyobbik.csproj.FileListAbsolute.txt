@@ -1,0 +1,7 @@
+C:\Users\gratt\source\repos\030. kettoszamkozulanagyobbik\030. kettoszamkozulanagyobbik\bin\Debug\_030.kettoszamkozulanagyobbik.exe.config
+C:\Users\gratt\source\repos\030. kettoszamkozulanagyobbik\030. kettoszamkozulanagyobbik\bin\Debug\_030.kettoszamkozulanagyobbik.exe
+C:\Users\gratt\source\repos\030. kettoszamkozulanagyobbik\030. kettoszamkozulanagyobbik\bin\Debug\_030.kettoszamkozulanagyobbik.pdb
+C:\Users\gratt\source\repos\030. kettoszamkozulanagyobbik\030. kettoszamkozulanagyobbik\obj\Debug\030. kettoszamkozulanagyobbik.csproj.AssemblyReference.cache
+C:\Users\gratt\source\repos\030. kettoszamkozulanagyobbik\030. kettoszamkozulanagyobbik\obj\Debug\030. kettoszamkozulanagyobbik.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\030. kettoszamkozulanagyobbik\030. kettoszamkozulanagyobbik\obj\Debug\_030.kettoszamkozulanagyobbik.exe
+C:\Users\gratt\source\repos\030. kettoszamkozulanagyobbik\030. kettoszamkozulanagyobbik\obj\Debug\_030.kettoszamkozulanagyobbik.pdb
